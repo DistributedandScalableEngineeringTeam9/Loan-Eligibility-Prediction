@@ -425,10 +425,6 @@ print("Classification Report:\n", classification_rep)
 
 # In[49]:
 
-
-pip install xgboost
-
-
 # ## XGBoost Classifier
 
 # In[50]:
